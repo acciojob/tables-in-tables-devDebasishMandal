@@ -1,2 +1,9 @@
-
+table, th, td {
+  border: 1px solid black;
+	text-align:center;
+	
+}
+th, td{
+	padding:0 12px;
+} 
 /* Your CSS Code here. */
